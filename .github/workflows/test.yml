@@ -2,6 +2,8 @@ name: pg8000
 
 on: [push]
 
+permissions: read-all
+
 jobs:
   main-test:
 
